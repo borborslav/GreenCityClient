@@ -2,9 +2,9 @@ export const environment = {
   production: false,
   apiKeys: 'AIzaSyDanBliCzAuCZrsq67FeKEs3vqAilUD_is',
   apiMapKey: 'AIzaSyB3xs7Kczo46LFcQRFKPMdrE0lU4qsR_S4',
-  backendLink: 'https://192.168.5.118:8080/',
-  backendUserLink: 'https://192.168.5.118:8060/',
-  backendUbsLink: 'https://192.168.5.118:8050',
+  backendLink: 'https://192.168.5.208:8080/',
+  backendUserLink: 'https://192.168.5.208:8060/',
+  backendUbsLink: 'https://192.168.5.208:8050',
   frontendLink: 'http://localhost:4200/GreenCityClient',
   socket: 'https://greencity.azurewebsites.net/socket',
   firebaseConfig: {
